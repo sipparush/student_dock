@@ -1,0 +1,3 @@
+mysqlclient
+nameko==2.14.0
+greenlet==1.1.2
